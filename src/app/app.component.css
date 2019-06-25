@@ -1,0 +1,23 @@
+.nugget {
+    background-color: #f9f9f9;
+    border: 1px solid #b7b7ba;
+    border-radius: 4px;
+    padding: 15px;
+    margin-bottom: 30px;
+    /* padding-left: 28px; */
+    width: 93%;
+    margin-left: 15px;
+}
+
+.btn-primary {
+    border-radius: 4px;
+    height: 30px;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.heading {
+    padding-left:15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
