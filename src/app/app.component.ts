@@ -119,6 +119,6 @@ export class AppComponent {
     return acc;
   }
 }
-}
+
 
 
